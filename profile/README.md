@@ -1,4 +1,4 @@
-# Team-SearveItUp's App - Match
+# Team - SearveItUp's App - Match
 
 ### 팀원 소개
 
